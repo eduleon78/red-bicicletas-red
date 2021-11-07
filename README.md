@@ -1,11 +1,11 @@
 # red-bicicletas-red Este projecto esta desarrollado con las siguientes herramientas:
 
 - Motor de plantillas .pug
-- nodejs
+- nodejs, modulos: express, passport
 - css 
 - javascript
 - ODM con mongoose
-- DB modoDB
+- Base de datos mongoDB
 - Testing con Jasmine
 - Seguridad con passport
 - API
